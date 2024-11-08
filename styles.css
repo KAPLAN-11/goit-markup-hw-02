@@ -1,0 +1,36 @@
+.logo {
+    color: #2E2F42;
+    font-weight: 700;
+    size: 18px;
+}
+.logo span {
+    color: #4D5AE5;
+    font-weight: 700;
+    size: 18px;
+}
+.navigation {
+    list-style-type:none;
+    
+}
+.navigation a {
+    font-weight: 500;
+    font-size: 16px;
+    color: #2E2F42;
+}
+.address {
+     list-style-type:none;
+}
+.address a {
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+.order-service {
+    color: white;
+    background-color: #2E2F42;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    width: 1440px;
+    
+}
