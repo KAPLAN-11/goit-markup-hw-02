@@ -1,36 +1,128 @@
-.logo {
-    color: #2E2F42;
-    font-weight: 700;
-    size: 18px;
-}
-.logo span {
-    color: #4D5AE5;
-    font-weight: 700;
-    size: 18px;
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
 }
 .navigation {
-    list-style-type:none;
+    background-color: #ffffff;
+    width: 90em;
+    height: 4.5;
+    list-style-type: none;
+}
+.logo1 {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 1em;
     
+}
+.logo1 span {
+    color: #4D5AE5;
+    font-weight: 700;
+    font-size: 1em;
 }
 .navigation a {
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
     color: #2E2F42;
+    line-height: 1.5em;
+    letter-spacing: 2%;
+    line-height: 1.5em;
+    letter-spacing: 2%;
+
 }
 .address {
      list-style-type:none;
 }
 .address a {
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1em;
     color: #434455;
 }
 .order-service {
     color: white;
     background-color: #2E2F42;
+    width: 90em;
+}
+.order-service h1 {
+    color: white;
     font-weight: 700;
-    font-size: 40px;
-    line-height: 60px;
-    width: 1440px;
-    
+    font-size: 3.5em;
+    text-align: center;
+    letter-spacing: 2%;
+    line-height: 3.75;    
+}
+.order-service button {
+    background-color: #4D5AE5;
+    color:white;
+    font-size: 1em;
+    font-weight: 500;
+    letter-spacing: 4%;
+}
+.abaut-us {
+    list-style-type: none;
+}
+.abaut-us h3 {
+    color: #2E2F42;
+    font-weight: 500;
+    size: 1.2em;
+    letter-spacing: 2%;
+}
+.abaut-us p {
+    color: #434455;
+    font-weight: 400;
+    font-size: 1em;
+    letter-spacing: 2%;
+}
+.our-team {
+    background-color: #F4F4FD;
+}
+.our-team h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.1em;
+    letter-spacing: 2%;
+}
+.our-team ul {
+    background-color: white;
+    list-style-type: none;
+}
+
+.our-portfolio{
+    background-color: white;
+}
+.our-portfolio ul {
+    list-style-type: none;
+}
+.our-portfolio h2 {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 2.25;
+    line-height: 2.5;
+    letter-spacing: 2%;
+    text-align: center;
+
+}
+.footer {
+    background-color: #2E2F42;
+
+}
+.logo2 {
+color: #F4F4FD;
+font-weight: 700;
+font-size: 1em;
+}
+.logo2 span {
+    color: #4D5AE5;
+    font-weight: 700;
+    font-size: 1em;
+}
+.footer p {
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.5em;
+    letter-spacing: 2%;
+    color: #F4F4FD;
+}
+a {
+    text-decoration: none;
 }
