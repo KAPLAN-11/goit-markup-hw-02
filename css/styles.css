@@ -86,7 +86,7 @@ body {
 .address-ul {
     list-style-type: none;
 }
-.mail {
+.address-a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -94,15 +94,15 @@ body {
     cursor: pointer;
     text-decoration: none;
 }
-.mail:hover {
+.address-a:hover {
     background-color: #2E2F42;
     color: #404BBF;
 }
-.mail:focus {
+.address-a:focus {
     background-color: #2E2F42;
     color: #404BBF;
 }
-.telephone {
+/* .telephone {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -116,8 +116,7 @@ body {
 }
 .telephone:focus {
     background-color: #2E2F42;
-    color: #404BBF;
-}
+    color: #404BBF; */
 .order-service {
 
     background-color: #2E2F42;
@@ -150,7 +149,7 @@ body {
     list-style-type: none;
 }
 
-.abaut-us-h {
+.abaut-us h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
